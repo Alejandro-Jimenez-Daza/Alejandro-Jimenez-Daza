@@ -21,7 +21,7 @@ bring real value and work well in the real world.
 I work well both independently and in a team, and I'm always looking to improve
 my technical skills and my way of thinking.
 
-- 🧠 **Interests:** Backend development, logic, optimization, continuous learning
+- 🧠 **Interests:** Full Stack development, logic, optimization, continuous learning
 - 🏋️ **Training:** Calisthenics & Sports
 
 ---
