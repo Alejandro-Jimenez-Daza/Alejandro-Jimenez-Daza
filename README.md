@@ -22,8 +22,8 @@ I work well both independently and in a team, and I'm always looking to improve
 my technical skills and my way of thinking.
 
 - 🧠 **Interests:** Backend development, logic, optimization, continuous learning
-- 🏋️ **Training:** Calisthenics & Streetlifting
-- 🎯 **Mindset:** Build, improve, repeat.
+- 🏋️ **Training:** Calisthenics & Sports
+
 ---
 ## 💻 Languages I have used
 
