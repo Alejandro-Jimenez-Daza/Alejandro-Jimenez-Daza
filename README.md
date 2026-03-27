@@ -152,6 +152,5 @@ my technical skills and my way of thinking.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-jimenez-daza&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-jimenez-daza&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
