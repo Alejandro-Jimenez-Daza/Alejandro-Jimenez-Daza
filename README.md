@@ -11,7 +11,7 @@ I'm a software developer focused on building efficient, clean and scalable solut
 I like to understand how things work deeply, not just use them.
 I enjoy solving real problems with code and optimizing processes.
 
-I have a disciplined mindset that also comes from my focus on calisthenics and streetlifting —
+I have a disciplined mindset that also comes from my focus on calisthenics —
 which reflects in how I work: consistency, progression and focus on measurable results.
 
 I learn fast, adapt easily and keep myself updated with new technologies.
