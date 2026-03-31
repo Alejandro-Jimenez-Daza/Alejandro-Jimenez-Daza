@@ -31,7 +31,6 @@ my technical skills and my way of thinking.
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
 ## 🧩 Technologies I have worked with
