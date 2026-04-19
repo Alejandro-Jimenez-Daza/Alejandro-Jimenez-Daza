@@ -42,7 +42,7 @@ my technical skills and my way of thinking.
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-000?style=for-the-badge&logo=pythonanywhere&logoColor=1D9FD7)
 ![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer&logoColor=885630)
 
