@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-I'm a software developer focused on building efficient, clean and scalable solutions.
+I'm a software developer focused on building efficient clean and functional solutions.
 I like to understand how things work deeply, not just use them.
 I enjoy solving real problems with code and optimizing processes.
 
