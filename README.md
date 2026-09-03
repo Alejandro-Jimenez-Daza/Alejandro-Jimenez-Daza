@@ -153,3 +153,8 @@ my technical skills and my way of thinking.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-jimenez-daza&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
+## 📊 Top Languages
+
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
